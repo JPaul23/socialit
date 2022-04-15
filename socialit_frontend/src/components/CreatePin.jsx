@@ -1,6 +1,6 @@
 import React from 'react';
 
-const CreatePin = () => {
+const CreatePin = ({ user }) => {
   return (
     <div>CreatePin</div>
   )
